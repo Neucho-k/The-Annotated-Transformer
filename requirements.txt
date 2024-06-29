@@ -1,0 +1,11 @@
+###### Requirements without Version Specifiers ######
+torchdata
+torchtext
+spacy
+
+altair
+GPUtil
+
+
+#
+###### Requirements with Version Specifiers ######
